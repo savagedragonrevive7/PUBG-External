@@ -15,14 +15,15 @@
 <table>
   <tr>
     <td align="center">
-      <img width="494" height="331" src="assets/preview-1.png" alt=<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/1b4e4f28-c7fd-4a22-a309-8e64cd6cc597" />  
+      <img width="494" height="331" src="https://github.com/user-attachments/assets/1b4e4f28-c7fd-4a22-a309-8e64cd6cc597" alt="Main interface" />
+      <br/>
       Main interface
-      
-   </td>
+    </td>
     <td align="center">
-      <img width="494" height="331" src="assets/preview-2.png" alt=<img width="412" height="399" alt="image" src="https://github.com/user-attachments/assets/c2b425cc-c61c-4219-a9b4-122baf43f7b4" />
-
-  Config panel
+      <img width="494" height="331" src="https://github.com/user-attachments/assets/c2b425cc-c61c-4219-a9b4-122baf43f7b4" alt="Config panel" />
+      <br/>
+      Config panel
+    </td>
   </tr>
 </table>
 
