@@ -1,6 +1,6 @@
 <div align="center">
 
-# PUBG Runtime Toolkit
+# PUBG External
 
 > **A feature-rich utility for expanding player control over the PUBG sandbox. Full customization of aiming, visual overlay, radar, and performance options.**
 
