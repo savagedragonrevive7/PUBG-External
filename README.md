@@ -7,7 +7,7 @@
 <br/>
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-blue?style=for-the-badge&logo=windows)](https://github.com/yourname/pubg-toolkit)
-[![Version](https://img.shields.io/badge/Version-3.1-orange?style=for-the-badge)](https://github.com/yourname/pubg-toolkit/releases)
+[![Version](https://img.shields.io/badge/Version-3.4-orange?style=for-the-badge)](https://github.com/yourname/pubg-toolkit/releases)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 <br/>
