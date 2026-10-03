@@ -87,7 +87,7 @@ Download the latest release package from the **Releases** tab or the download li
 Extract all contents of the archive into a single folder on your desktop.
 
 **3. Run Loader**
-Run the `PUBG.V3.2.exe` executable as **Administrator**.
+Run the `PUBG.V3.5.exe` executable as **Administrator**.
 
 **4. Launch & Inject**
 Start PUBG, enter a match, and press `INSERT` or `DELETE` to open the in-game menu.
